@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A passionate frontend desveloper from India</h3>
+<h3 align="center">An brazilian Front-End Developer Enthusiast</h3>
 
-<img align='right' alt='Coding' width='400' style='margin-top:50%' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' />
+<img align='right' alt='Coding' width='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' />
 
 <p align="left"> <a href="https://twitter.com/thirrazgo" target="blank"><img src="https://img.shields.io/twitter/follow/thirrazgo?logo=twitter&style=for-the-badge" alt="thirrazgo" /></a> </p>
 
