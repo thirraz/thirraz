@@ -3,7 +3,7 @@
 
 <img align='right' alt='Coding' width='400' src='https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif' />
 
-<p align="left"> <a href="https://twitter.com/thirrazgo" target="blank"><img src="https://img.shields.io/twitter/follow/thirrazgo?logo=twitter&style=for-the-badge" alt="thirrazgo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/thirrazgo" target="blank"><img src="https://img.shields.io/twitter/follow/thirrazz?logo=twitter&style=for-the-badge" alt="thirrazgo" /></a> </p>
 
 - 🌱 I’m currently learning **React, Typescript and SASS**
 
