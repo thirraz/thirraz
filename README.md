@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/thirrazgo" target="blank"><img src="https://img.shields.io/twitter/follow/thirrazz?logo=twitter&style=for-the-badge" alt="thirrazgo" /></a> </p>
 
-- 🌱 I’m currently learning **React, Typescript and SASS**
+- 🌱 I’m currently learning **React, Typescript and Tailwind CSS**
 
 - 💬 Ask me about **React & Front-End Development**
 
